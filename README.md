@@ -45,7 +45,7 @@ I exported the Gerber files and BOM, and sent it off to JLCPCB for manufacture. 
 
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/iamjackchen/SLLed/master/Screenshots/PCBFrontRender.png" width="49%"/>
-  <img align="center"  src="https://raw.githubusercontent.com/iamjackchen/SLLed/master/Screenshots/PCBBackRender.png" width="49%"/> 
+  <img align="center" src="https://raw.githubusercontent.com/iamjackchen/SLLed/master/Screenshots/PCBBackRender.png" width="49%"/> 
 </p>
 
 <br/>
