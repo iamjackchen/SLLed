@@ -44,8 +44,8 @@ The geometry of the heart took some time to get right, but it turned out ok.
 I exported the Gerber files and BOM, and sent it off to JLCPCB for manufacture. Here are some renders: 
 
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/iamjackchen/SLLed/master/Screenshots/PCBFrontRender.png" width="49%" />
-  <img align="center"  src="https://raw.githubusercontent.com/iamjackchen/SLLed/master/Screenshots/PCBBackRender.png" width="49%" /> 
+  <img align="center" src="https://raw.githubusercontent.com/iamjackchen/SLLed/master/Screenshots/PCBFrontRender.png" width="49%"/>
+  <img align="center"  src="https://raw.githubusercontent.com/iamjackchen/SLLed/master/Screenshots/PCBBackRender.png" width="49%"/> 
 </p>
 
 <br/>
@@ -74,9 +74,9 @@ There are currently 5 lighting modes built into the program : twinkle, heartbeat
 
 
 <p align="center">
- <img align="center" src="https://raw.githubusercontent.com/iamjackchen/SLLed/master/Screenshots/wall.jpg" width="33%" />
-<img align="center" src="https://raw.githubusercontent.com/iamjackchen/SLLed/master/Screenshots/display.jpg" width="33%" />
-<img align="center" src="https://raw.githubusercontent.com/iamjackchen/SLLed/master/Screenshots/dark.jpg" width="33%" />
+ <img align="center" src="https://raw.githubusercontent.com/iamjackchen/SLLed/master/Screenshots/wall.jpg" width="32.3%" />
+<img align="center" src="https://raw.githubusercontent.com/iamjackchen/SLLed/master/Screenshots/display.jpg" width="32.3%" />
+<img align="center" src="https://raw.githubusercontent.com/iamjackchen/SLLed/master/Screenshots/dark.jpg" width="32.3%" />
  
 </p>
 
