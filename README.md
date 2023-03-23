@@ -44,8 +44,8 @@ The geometry of the heart took some time to get right, but it turned out ok.
 I exported the Gerber files and BOM, and sent it off to JLCPCB for manufacture. Here are some renders: 
 
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/iamjackchen/SLLed/master/Screenshots/PCBFrontRender.png" width="49%"/>
-  <img align="center"  src="https://raw.githubusercontent.com/iamjackchen/SLLed/master/Screenshots/PCBBackRender.png" width="49%"/> 
+  <img align="center" src="https://raw.githubusercontent.com/iamjackchen/SLLed/master/Screenshots/PCBFrontRender1.png" width="49%"/>
+  <img align="center" src="https://raw.githubusercontent.com/iamjackchen/SLLed/master/Screenshots/PCBBackRender1.png" width="49%"/> 
 </p>
 
 <br/>
