@@ -80,8 +80,8 @@ There are currently 5 lighting modes built into the program : twinkle, heartbeat
 </p>
 
 <p align="center">
- <img align="center" src="https://raw.githubusercontent.com/iamjackchen/SLLed/master/Screenshots/Snake.mp4" width="49%" />
-<img align="center" src="https://raw.githubusercontent.com/iamjackchen/SLLed/master/Screenshots/VerticalSweep.mp4" width="49%" />
+ <img align="center" src="https://raw.githubusercontent.com/iamjackchen/SLLed/master/Screenshots/snake.gif" width="49%" />
+<img align="center" src="https://raw.githubusercontent.com/iamjackchen/SLLed/master/Screenshots/vsweep.gif" width="49%" />
 </p>
 
 
